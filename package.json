@@ -1,0 +1,26 @@
+{
+  "name": "ts-summarize-file",
+  "version": "1.0.0",
+  "description": "Print a list of declarations in a TypeScript file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanCavanaugh/ts-summarize-file.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanCavanaugh/ts-summarize-file/issues"
+  },
+  "homepage": "https://github.com/RyanCavanaugh/ts-summarize-file#readme",
+  "dependencies": {
+    "typescript": "^2.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^10.3.2"
+  }
+}
